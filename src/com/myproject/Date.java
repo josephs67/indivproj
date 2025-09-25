@@ -1,12 +1,12 @@
-package com.indivproj;
+package com.myproject;
 
-public class Year extends YearPoint {
+public class Date extends Year {
 
     private int day;
     private String month;
 
 
-    public YearPoint(int whichYear, int day, String month){
+    public Date(int whichYear, int day, String month){
         super(whichYear);
         this.day = day;
         this.month = month;

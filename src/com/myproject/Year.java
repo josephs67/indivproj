@@ -1,4 +1,4 @@
-package com.indivproj;
+package com.myproject;
 
 public class Year {
     public int whichYear;
