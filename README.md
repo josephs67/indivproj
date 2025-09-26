@@ -1,1 +1,1 @@
-# indivproj
+# myproject
